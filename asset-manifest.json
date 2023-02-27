@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/css/0.24890ae6.chunk.css": "./static/css/0.24890ae6.chunk.css",
+    "static/js/0.b04f7c0f.chunk.js": "./static/js/0.b04f7c0f.chunk.js",
+    "static/js/0.b04f7c0f.chunk.js.map": "./static/js/0.b04f7c0f.chunk.js.map",
+    "static/css/1.c9aced6a.chunk.css": "./static/css/1.c9aced6a.chunk.css",
+    "static/js/1.072df8e2.chunk.js": "./static/js/1.072df8e2.chunk.js",
+    "static/js/1.072df8e2.chunk.js.map": "./static/js/1.072df8e2.chunk.js.map",
+    "web3.js": "./static/js/web3.c4b15ae7.chunk.js",
+    "web3.js.map": "./static/js/web3.c4b15ae7.chunk.js.map",
+    "main.css": "./static/css/main.e6c42d91.chunk.css",
+    "main.js": "./static/js/main.f91800b5.chunk.js",
+    "main.js.map": "./static/js/main.f91800b5.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.adda0fef.js",
+    "runtime-main.js.map": "./static/js/runtime-main.adda0fef.js.map",
+    "static/js/5.f686e88f.chunk.js": "./static/js/5.f686e88f.chunk.js",
+    "static/js/5.f686e88f.chunk.js.map": "./static/js/5.f686e88f.chunk.js.map",
+    "static/js/6.49f0503e.chunk.js": "./static/js/6.49f0503e.chunk.js",
+    "static/js/6.49f0503e.chunk.js.map": "./static/js/6.49f0503e.chunk.js.map",
+    "static/js/7.2eb74f90.chunk.js": "./static/js/7.2eb74f90.chunk.js",
+    "static/js/7.2eb74f90.chunk.js.map": "./static/js/7.2eb74f90.chunk.js.map",
+    "static/js/8.2a6a6890.chunk.js": "./static/js/8.2a6a6890.chunk.js",
+    "static/js/8.2a6a6890.chunk.js.map": "./static/js/8.2a6a6890.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/0.24890ae6.chunk.css.map": "./static/css/0.24890ae6.chunk.css.map",
+    "static/css/1.c9aced6a.chunk.css.map": "./static/css/1.c9aced6a.chunk.css.map",
+    "static/css/main.e6c42d91.chunk.css.map": "./static/css/main.e6c42d91.chunk.css.map",
+    "static/js/0.b04f7c0f.chunk.js.LICENSE.txt": "./static/js/0.b04f7c0f.chunk.js.LICENSE.txt",
+    "static/js/5.f686e88f.chunk.js.LICENSE.txt": "./static/js/5.f686e88f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/up.7f7e6bc7.svg",
+    "static/media/whitepaper.css": "./static/media/pixeloidsans-bold.01238c6e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adda0fef.js",
+    "static/js/5.f686e88f.chunk.js",
+    "static/css/main.e6c42d91.chunk.css",
+    "static/js/main.f91800b5.chunk.js"
+  ]
+}
